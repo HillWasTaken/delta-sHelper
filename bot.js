@@ -1845,5 +1845,5 @@ Structures.extend("GuildEmoji", (GuildEmoji) => class extends GuildEmoji {
 // Start Bot
 //---------------------------------------------------------------------
 
-Files.startBot();
+// Files.startBot();
 Bot.login(process.env.token);
